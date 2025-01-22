@@ -70,7 +70,6 @@ A modern and interactive traffic simulation built with PyQt6, featuring autonomo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/autonomous_vehicle_navigation.git
    cd autonomous_vehicle_navigation
    ```
 
